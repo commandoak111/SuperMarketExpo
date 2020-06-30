@@ -23,7 +23,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kareinfinity.market",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "package": "com.kareinfinity.market",
